@@ -75,13 +75,13 @@ body {
             padding: 5px;
         }
 
-            .app .todos .todo .left {
+            .app .todos .todo .AddToDo {
                 display: flex;
                 justify-content: flex-start;
                 align-items: center;
             }
 
-                .app .todos .todo .left p {
+                .app .todos .todo .AddToDo p {
                     margin-left: 3px;
                     font-size: medium;
                     font-weight: 700;
